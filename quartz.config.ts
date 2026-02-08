@@ -15,6 +15,9 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    extraHead: [
+      `<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3d1a2c83f567498f914db413950cae09"}'></script><!-- End Cloudflare Web Analytics -->`,
+    ],
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
