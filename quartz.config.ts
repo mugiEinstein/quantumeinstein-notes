@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       `<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3d1a2c83f567498f914db413950cae09"}'></script><!-- End Cloudflare Web Analytics -->`,
     ],
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notes.quantumeinstein.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
