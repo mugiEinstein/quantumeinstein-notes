@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://notes.quantumeinstein.org</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to QuantumEinstein Notes</title>
+    <link>https://notes.quantumeinstein.org/Blog/Welcome</link>
+    <guid>https://notes.quantumeinstein.org/Blog/Welcome</guid>
+    <description><![CDATA[ Welcome to QuantumEinstein Notes This site is a public notebook for my research, learning, and writing. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>Blog</title>
+    <link>https://notes.quantumeinstein.org/Blog</link>
+    <guid>https://notes.quantumeinstein.org/Blog</guid>
+    <description><![CDATA[ Blog 偏文章化的内容会放在这里。. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 07:45:18 GMT</pubDate>
+  </item><item>
+    <title>Ideas</title>
+    <link>https://notes.quantumeinstein.org/Ideas</link>
+    <guid>https://notes.quantumeinstein.org/Ideas</guid>
+    <description><![CDATA[ Ideas 这里放各种灵感、碎片、未来计划。. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 07:45:18 GMT</pubDate>
+  </item><item>
+    <title>Notes</title>
+    <link>https://notes.quantumeinstein.org/Notes</link>
+    <guid>https://notes.quantumeinstein.org/Notes</guid>
+    <description><![CDATA[ Notes 这里是我的笔记总入口。 Research Ideas Blog . ]]></description>
+    <pubDate>Sun, 08 Feb 2026 07:45:18 GMT</pubDate>
+  </item><item>
+    <title>Research</title>
+    <link>https://notes.quantumeinstein.org/Research</link>
+    <guid>https://notes.quantumeinstein.org/Research</guid>
+    <description><![CDATA[ Research 科研相关的笔记入口。 论文阅读 实验记录 写作草稿 . ]]></description>
+    <pubDate>Sun, 08 Feb 2026 07:45:18 GMT</pubDate>
+  </item><item>
+    <title>QuantumEinstein Notes</title>
+    <link>https://notes.quantumeinstein.org/</link>
+    <guid>https://notes.quantumeinstein.org/</guid>
+    <description><![CDATA[ 欢迎来到我的公开笔记站 👋 这里记录我在 研究 / 学习 / 写作 中的沉淀。 📌 导航 Notes：我的知识库主目录 Research：科研相关记录（论文/实验/想法） Ideas：灵感碎片 &amp; 未来计划 Blog：更完整的文章 ✨ 推荐阅读 Hello Quartz 🔍 使用说明 左侧有目录（Explorer），右上角有 Graph View（知识图谱）。 你也可以直接搜索关键词。. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 07:45:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
